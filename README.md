@@ -9,4 +9,10 @@ Now that the facility has fulfilled its purpose, it's time to cover your tracks,
 Wipe it from existence so no one — and nothing — can trace your path.
 The future depends on secrecy.
 second clue####################################################################################################
-.wormhole.sh:Y[vWX,.[.hxei'; echo "You've managed to breach the distortions near Saturn's ring and accessed the wormhole node" # :';tz.#9Ya4e{[tPZ$j]Laz-MzN){XjaLKW(ZEf%@Aa633dL;@A48CjhCz{ZH?+8n]B6weekyMDH0f
+Well done, traveller
+You've managed to breach the distortions near Saturn's ring and accessed the wormhole node
+This is your second key wbGV0ZWQgdGhlIFRlcm1pbmFsIEh1bnQhIFJ1biBncmF2aXR5
+But now, your mission isn't just to discover... it's to protect
+Back up the solutions.md to the safest place you know
+And what could be safer than your Home Sweet Home
+

@@ -46,7 +46,7 @@ git clone <url>: Clones the repository from the specified URL.
 
 git add [filename]: Stages the specified file for commit.
 
-git commit : commits the changes
+git commit -m: commits the changes
 
 git status: Displays the files that have been modified.
 
